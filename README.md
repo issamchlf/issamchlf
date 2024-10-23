@@ -5,6 +5,8 @@
 ###
 
 <div align="center">
+  
+<div align="center">
     <a href="https://www.linkedin.com/in/issam-chellaf-1099352bb/">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  >
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -62,9 +64,11 @@
 </div>
 
 ###
+<h3>Contacte Me :</h3>
 
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+  
 </div>
 
 ###
