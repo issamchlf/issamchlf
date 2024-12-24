@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Issam chellaf i have 20 years old , I´m from morocco but I´m currently living in malaga. <br><br>- 🔭 I’m studying right now in Arrabal & Factoria F5.<br>- 📚 I'm currently learning WEB DEVLOPMENT + AWS.<br>- ⚡ In my free time I like to meet friends and visit new places.</p>
+<p align="left">I'm Issam chellaf i have 20 years old , I´m from morocco but I´m currently living in malaga. <br><br>- 🔭 I’m studying right now in Arrabal & Factoria F5.<br>- 📚 I'm currently learning WEB DEV + AWS.<br>- ⚡ In my free time I like to meet friends and visit new places.</p>
 
 ###
 
