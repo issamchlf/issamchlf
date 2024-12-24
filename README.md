@@ -1,8 +1,5 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/777b3021b0aa890665c2eddb1c8fa5509bb82893db637134f9013de0831e6716/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966"  />
-</div>
 
-###
+![Brown and Orange Illustrated Chicken Twitter Header](https://github.com/user-attachments/assets/6d9fdc64-8576-45d4-8328-0a9e9a7b41b4)
 
 <div align="center">
   
