@@ -50,7 +50,6 @@
    <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/javascript.svg" />
   <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/sass.svg" />
   <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/sqlite.svg" />
-  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/html5.svg" />
   <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/css.svg" />
   <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/aws.svg" />
 
