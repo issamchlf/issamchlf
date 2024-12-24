@@ -24,30 +24,40 @@
 
 ###
 
-<p align="left">I'm Issam chellaf i have 20 years old , I´m from morocco but I´m currently living in malaga. <br><br>- 🔭 I’m studying right now in Arrabal & Factoria F5.<br>- 📚 I'm currently learning WEB DEV + AWS.<br>- ⚡ In my free time I like to meet friends and visit new places.</p>
-
+<p align="left">I'm Issam chellaf i have 20 years old , I´m from morocco but I´m currently living in malaga. <br><br>- 🔭 I’m studying right now in Arrabal & Factoria F5.<br>- 📚 I'm currently learning WEB DEV + AWS.<br>- ⚡ In my free time I like to meet friends and visit new places.<br>
+  <br>
+<h3 align="left">👩‍💻  Skills</h3>
+  
+<p align="left">
+- 🌱 Frontend : HTML5, Tailwind, Bootstrap<br>
+- 🔭 Backend : LARAVEL<br>
+- 🧩 Database : MySQL<br>
+- 💬 Language : Python, HTML, CSS, Javascript, PHP<br>
+</p>
+  
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
 
-###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/laravel.svg" />
+  
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/php.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/python.svg" />
+  
+ 
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/mysqlsvg.svg" />
+   <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/javascript.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/sass.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/sqlite.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/html5.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/css.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/aws.svg" />
+
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/git.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/github.svg" />
+  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/gitlabsvg.svg" />
+  
 </div>
 
 ###
