@@ -69,8 +69,12 @@
 - 🚀 Collaborated on projects that integrated **AWS** services for scalable cloud-based solutions.  
 - 🏆 Recognized as a quick learner with strong problem-solving skills.  
 
+### 🏆 Certifications
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc4a1934-fbf9-4fab-91a2-0f4953b699b3" alt="AWS re/Start Graduate" />
+</p>
+
 
 ### 🌟 **Fun Fact**
 > _"Great things are not done by impulse, but by a series of small things brought together."_  
